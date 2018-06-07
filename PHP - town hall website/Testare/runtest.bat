@@ -1,0 +1,1 @@
+phpunit --bootstrap testare/src/buildupTest.php testare/src/testPhpErrors.php
